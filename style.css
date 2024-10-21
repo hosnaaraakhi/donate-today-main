@@ -9,11 +9,11 @@
     margin-right: 20px;
     padding-top: 131px;
     margin-bottom: 130px;
-    background-image:url(images/header_bg.png),linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.6));
+    background-image:url(images/header_bg.png),linear-gradient(to right, white, rgba(255, 192, 203, 0.867) );
     background-repeat: no-repeat;
     background-position: bottom right;
-    
-    /* height: 50vh; */
+    /* background-image: linear-gradient(to top, rgba(0, 0, 0, 0.556), rgba(255, 0, 0, 0.075)); */
+    height: 30vw;
 }
 .let{
     font-weight: 700;
